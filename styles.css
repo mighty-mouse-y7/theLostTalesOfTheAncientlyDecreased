@@ -2,5 +2,7 @@ h1, h2, p {
   text-align: center;
 }
 #mapKeltablique {
-  width: 60%;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
 }
