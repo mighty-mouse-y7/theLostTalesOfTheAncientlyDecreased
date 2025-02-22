@@ -3,7 +3,10 @@ h1, h2, p {
 }
 #mapKeltablique {
   width: 20%;
-  align: center;
+}
+#mapFieldKeltablique {
+  margin-left: auto;
+  margin-right: auto;
 }
 .mainPageLTAD {
   background-image: url(https://raw.githubusercontent.com/mighty-mouse-y7/photosPublicDomain/refs/heads/main/parchment/grunge-background-14635619239LT.jpg);
