@@ -1,4 +1,4 @@
-<-- ELements !-->
+<!-- ELements -->
 h1, h2, h3, p {
   text-align: center;
 }
@@ -9,14 +9,14 @@ body {
 main {
   color: orange;
 }
-<-- Classes !-->
+<!-- Classes -->
 .mainPageLTAD {
   width: 80%;
   background-color: black;
   margin-left: auto;
   margin-right: auto;
 }
-<-- IDs !-->
+<!-- IDs -->
 #mapKeltablique {
   width: 20%;
 }
