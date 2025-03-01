@@ -1,0 +1,26 @@
+<!-- ELements -->
+h1, h2, h3, p {
+  text-align: center;
+}
+body {
+  background-image: url(https://raw.githubusercontent.com/mighty-mouse-y7/photosPublicDomain/refs/heads/main/parchment/grunge-background-14635619239LT.jpg);
+  height: 100%;
+}
+main {
+  color: orange;
+}
+<!-- Classes -->
+.mainPageLTAD {
+  width: 80%;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+<!-- IDs -->
+#mapKeltablique {
+  width: 20%;
+}
+#mapFieldKeltablique {
+  margin-left: auto;
+  margin-right: auto;
+}
